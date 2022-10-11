@@ -6,3 +6,4 @@ im not about to spend time making a squarespace or a carrd so i figured i'd just
 
 # timeline
 10-10-22: 1.0 (more like 0.1) committed, nothing but the raw html, no css.
+10-10-22 (v.2): 1.1 committed, started with the css.
